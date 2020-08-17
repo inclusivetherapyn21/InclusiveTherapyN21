@@ -3,6 +3,7 @@
 body {
     font-family: 'Dosis', sans-serif;
     background-image: linear-gradient(to bottom left, rgba(0, 110, 0, 0.5), #ffffff);
+    background-repeat: no-repeat;
     color: #000000;
 }
 
