@@ -49,3 +49,7 @@ body {
     margin: 20px;
 }
 
+.mini_icon{
+    max-width: 10%;
+    height: auto;
+}
