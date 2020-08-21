@@ -49,7 +49,12 @@ body {
     margin: 20px;
 }
 
-.mini_icon{
+.mini_icon {
     max-width: 100px;
     height: auto;
+    transition: transform .2s; /* Animation */
+}
+
+.mini_icon:hover {
+    transform: scale(1.2);
 }
