@@ -61,3 +61,10 @@ body {
 p{
     font-size: 1.5em;
 }
+
+.big-quote{
+    background-color: #9f9f9f;
+    border-left-width:3px;
+    border-left-color: #393939;
+    border-left-style: solid;
+}
