@@ -67,4 +67,6 @@ p{
     border-left-width:3px;
     border-left-color: #393939;
     border-left-style: solid;
+    padding: 10px;
+    margin: 10px;
 }
