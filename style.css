@@ -50,9 +50,9 @@ body {
 }
 
 .mini_icon {
-    max-width: 100px;
+    max-width: 85px;
     height: auto;
-    transition: transform .2s; /* Animation */
+    transition: transform .4s; /* Animation */
 }
 
 .mini_icon:hover {
