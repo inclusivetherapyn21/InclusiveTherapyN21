@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Dosis', sans-serif;
-    background-image: linear-gradient(to bottom left, #e2b767 ), #ffffff);
+    background-image: linear-gradient(to bottom left, #e2b767, #ffffff);
     background-repeat: no-repeat;
     color: #000000;
 }
