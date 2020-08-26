@@ -23,7 +23,7 @@ body {
 .page-margin{
   font-family: 'Dosis', sans-serif;
   padding: 5px;
-  background-color: rgba(255, 255, 255, 0.25);
+  background-color: rgba(255, 255, 255, 0.35);
   border-radius: 0.3rem;
   margin: 20px;
 }
