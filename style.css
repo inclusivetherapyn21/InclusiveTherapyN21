@@ -58,3 +58,7 @@ body {
 .mini_icon:hover {
     transform: scale(1.2);
 }
+
+p{
+    font-size: 1.2em;
+}
