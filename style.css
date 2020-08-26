@@ -62,9 +62,9 @@ p{
     font-size: 1.1em;
 }
 
-.big-quote{
-    background-color: #9f9f9f;
-    border-left-width:3px;
+.big-quote {
+    background-color: #c5c5c5;
+    border-left-width: 3px;
     border-left-color: #393939;
     border-left-style: solid;
     padding: 10px;
