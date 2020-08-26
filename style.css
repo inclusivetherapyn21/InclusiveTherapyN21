@@ -2,7 +2,7 @@
 
 body {
     font-family: 'Dosis', sans-serif;
-    background-image: linear-gradient(to bottom left, #e6d9ff, #ffffff);
+    background-image: linear-gradient(to top right, #e6d9ff, #ffffff);
     background-repeat: no-repeat;
     color: #000000;
 }
@@ -23,7 +23,7 @@ body {
 .page-margin{
   font-family: 'Dosis', sans-serif;
   padding: 5px;
-  background-color: rgba(255, 255, 255, 0.15);
+  background-color: rgba(255, 255, 255, 0.25);
   border-radius: 0.3rem;
   margin-left: 20px;
   margin-right: 20px;
